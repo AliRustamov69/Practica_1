@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Chast2\Chast2\bin\Debug\net8.0\Chast2.exe
+C:\Users\user\Desktop\Chast2\Chast2\bin\Debug\net8.0\Chast2.deps.json
+C:\Users\user\Desktop\Chast2\Chast2\bin\Debug\net8.0\Chast2.runtimeconfig.json
+C:\Users\user\Desktop\Chast2\Chast2\bin\Debug\net8.0\Chast2.dll
+C:\Users\user\Desktop\Chast2\Chast2\bin\Debug\net8.0\Chast2.pdb
+C:\Users\user\Desktop\Chast2\Chast2\obj\Debug\net8.0\Chast2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Chast2\Chast2\obj\Debug\net8.0\Chast2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Chast2\Chast2\obj\Debug\net8.0\Chast2.AssemblyInfo.cs
+C:\Users\user\Desktop\Chast2\Chast2\obj\Debug\net8.0\Chast2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Chast2\Chast2\obj\Debug\net8.0\Chast2.dll
+C:\Users\user\Desktop\Chast2\Chast2\obj\Debug\net8.0\refint\Chast2.dll
+C:\Users\user\Desktop\Chast2\Chast2\obj\Debug\net8.0\Chast2.pdb
+C:\Users\user\Desktop\Chast2\Chast2\obj\Debug\net8.0\Chast2.genruntimeconfig.cache
+C:\Users\user\Desktop\Chast2\Chast2\obj\Debug\net8.0\ref\Chast2.dll
